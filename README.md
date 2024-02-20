@@ -22,7 +22,7 @@ At First, I struggled to find proper documentation for the `leetcode.com/graphql
 ## API URL 🌐
 
 ```
-[https://alfa-leetcode-api.vercel.app/](https://alfa-leetcode-api-neon.vercel.app/)
+https://alfa-leetcode-api.vercel.app/
 ```
 
 ### 💡 Rate Limit
